@@ -105,7 +105,7 @@ export const Experience = () => {
         ))}
       </ol>
       <div className="mt-12">
-        <MainButtonLink route="https://google.com">
+        <MainButtonLink route="/Resume_Muhammad-dzulhilmi.pdf">
           View Full Resume
         </MainButtonLink>
       </div>
