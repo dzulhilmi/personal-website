@@ -6,10 +6,6 @@ const socialMediaList = [
     route: "https://github.com/dzulhilmi",
   },
   {
-    type: "INSTAGRAM",
-    route: "https://www.instagram.com/mdzmi/",
-  },
-  {
     type: "LINKEDIN",
     route: "https://www.linkedin.com/in/muhammad-dzulhilmi-045812141/",
   },

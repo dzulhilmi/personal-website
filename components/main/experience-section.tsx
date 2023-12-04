@@ -4,8 +4,8 @@ import { MainButtonLink } from "./button-link";
 
 const experienceData = [
   {
-    startDate: "Mei 2023",
-    endDate: "Present",
+    startDate: "May 2023",
+    endDate: "November 2023",
     positions: ["Front-end Developer"],
     company: {
       name: "Indivara Group",
@@ -105,7 +105,7 @@ export const Experience = () => {
         ))}
       </ol>
       <div className="mt-12">
-        <MainButtonLink route="/FS_Muhammad-dzulhilmi.pdf">
+        <MainButtonLink route="/Resume FS.pdf">
           View Full Resume
         </MainButtonLink>
       </div>

@@ -17,8 +17,7 @@ export default function Home() {
               Muhammad Dzulhilmi
             </h1>
             <h2 className="mt-3 text-lg font-medium tracking-tight dark:text-slate-200 sm:text-xl">
-              <span className="text-blue-500">Front-end Developer</span> at
-              Indivara Group
+              <span className="text-blue-500">Front-end Developer</span>
             </h2>
             <p className="mt-4 max-w-xs leading-normal">
               I specialize in crafting captivating and user-friendly web
